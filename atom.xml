@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[mobilemike.org]]></title>
+  <title><![CDATA[Mike Karolow]]></title>
   <link href="http://mobilemike.org/atom.xml" rel="self"/>
   <link href="http://mobilemike.org/"/>
-  <updated>2012-09-13T12:07:54-04:00</updated>
+  <updated>2012-09-18T12:34:24-04:00</updated>
   <id>http://mobilemike.org/</id>
   <author>
     <name><![CDATA[Mike Karolow]]></name>
