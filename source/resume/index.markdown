@@ -6,14 +6,6 @@ footer: true
 sidebar: false
 ---
 
-Mike Karolow  
-195 Jefferson Ave  
-Salem, MA 01970  
-[mobilemike@gmail.com](mailto:mobilemike@gmail.com)  
-978 590-3971  
-
-[GitHub](https://github.com/mobilemike) 
-
 Technical Experience
 --------------------------------------------------------------------------------
 
