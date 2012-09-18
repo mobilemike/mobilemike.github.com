@@ -1,2 +1,35 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+html {
+  background: $page-bg image-url('dark-bg.png') top left;
+}
+
+body {
+  @include box-shadow(black 0px 0px 25px);
+}
+
+body {
+  > div {
+    background: $sidebar-bg image-url('light-bg.png') top left;
+    > div {
+      background: $main-bg image-url('light-bg.png') top left;
+    }
+  }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  html {
+    background: $page-bg image-url('dark-bg@2x.png') top left;
+  }
+
+  body {
+    > div {
+      background: $sidebar-bg image-url('light-bg@2x.png') top left;
+      > div {
+        background: $main-bg image-url('light-bg@2x.png') top left;
+      }
+    }
+  }
+}
+
