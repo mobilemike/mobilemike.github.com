@@ -10,9 +10,9 @@ Hello
 -----
 My name is Mike and I'm looking for a a company to to help me reboot my career.
 
-For almost 10 years, I've been climbing the corporate ladder of enterprise IT. Recently, I've been growing more and more displeased with the state of my industry. Buy over build, lack of integration, never taking projects past 80%, zero respect for the benefits of open source; the list goes on and on. Well, no more.
+For almost 10 years, I've been climbing the corporate ladder of enterprise IT. Recently, I've grown more and more displeased with the state of my industry. Buy over build, lack of integration, never taking projects past 80%, zero respect for the benefits of open source; the list goes on and on. Well, no more.
 
-This summer I took the leap. I quit my systems architecture position to give me the time necessary to pursue new career somewhere in the Ruby/Rails ecosystem. Unlike most developers, my story and background are a bit different, so please bear with me. My [resume] highlights my past engineering and leadership skills. Please allow me to explain my development background in more detail.
+This summer I took the leap. I left my systems architecture position to to pursue my new career somewhere in the Ruby/Rails ecosystem. Unlike most developers, my story and background are a bit different, so please bear with me. My [resume] highlights my past engineering and leadership skills. Please allow me to explain my development background in more detail.
 
 I've been using Ruby in a hobby capacity for 5 years. I attended Rails Conf '07 and learned an immense amount about Rails and the ecosystem in general. In 2009 I attended the Pragmatic Studio's Ruby on Rails course. When I returned, I immediately began work on an internal app for my employer; one that they still use today. It was never the focus of my job to do development, but I had been bitten by the bug and there is no going back. To take the next step, I need to put these skills to work in a professional capacity.
 
